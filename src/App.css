@@ -1,0 +1,28 @@
+.navTags {
+  color: white;
+  text-decoration: none;
+  font-weight: bolder;
+}
+
+.navTags:hover {
+  color: white;
+}
+
+.lables {
+    color: blue !important;
+    font-weight: bolder;
+}
+
+.buton {
+  border-radius: 2rem;
+  padding: 0.1rem 1.5rem;
+}
+
+.c1 {
+  background-color: gray;
+}
+
+.width {
+  min-width: 18rem;
+  max-width: 55rem;
+}
